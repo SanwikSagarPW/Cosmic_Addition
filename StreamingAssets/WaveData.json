@@ -302,140 +302,140 @@
                 {
                     "display": "37 + 28",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "chainBlast",
+                    "destroyStyle": "normal",
                     "elements": [ "63", "66", "64" ],
                     "correct": [ "65" ]
                 },
                 {
                     "display": "45 + 39",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "chainBlast",
+                    "destroyStyle": "normal",
                     "elements": [ "82", "85", "83" ],
                     "correct": [ "84" ]
                 },
                 {
                     "display": "56 + 27",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "chainBlast",
+                    "destroyStyle": "normal",
                     "elements": [ "81", "84", "82" ],
                     "correct": [ "83" ]
                 },
                 {
                     "display": "68 + 47",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "chainBlast",
+                    "destroyStyle": "normal",
                     "elements": [ "113", "116", "114" ],
                     "correct": [ "115" ]
                 },
                 {
                     "display": "49 + 36",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "chainBlast",
+                    "destroyStyle": "normal",
                     "elements": [ "83", "86", "84" ],
                     "correct": [ "85" ]
                 },
                 {
                     "display": "54 + 38",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "chainBlast",
+                    "destroyStyle": "normal",
                     "elements": [ "90", "93", "91" ],
                     "correct": [ "92" ]
                 },
                 {
                     "display": "63 + 29",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "chainBlast",
+                    "destroyStyle": "normal",
                     "elements": [ "90", "93", "91" ],
                     "correct": [ "92" ]
                 },
                 {
                     "display": "75 + 18",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "chainBlast",
+                    "destroyStyle": "normal",
                     "elements": [ "91", "94", "92" ],
                     "correct": [ "93" ]
                 },
                 {
                     "display": "84 + 29",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "chainBlast",
+                    "destroyStyle": "normal",
                     "elements": [ "111", "114", "112" ],
                     "correct": [ "113" ]
                 },
                 {
                     "display": "67 + 25",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "chainBlast",
+                    "destroyStyle": "normal",
                     "elements": [ "90", "93", "91" ],
                     "correct": [ "92" ]
                 },
                 {
                     "display": "78 + 36",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "chainBlast",
+                    "destroyStyle": "normal",
                     "elements": [ "112", "115", "113" ],
                     "correct": [ "114" ]
                 },
                 {
                     "display": "59 + 47",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "chainBlast",
+                    "destroyStyle": "normal",
                     "elements": [ "104", "107", "105" ],
                     "correct": [ "106" ]
                 },
                 {
                     "display": "46 + 38",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "chainBlast",
+                    "destroyStyle": "normal",
                     "elements": [ "82", "85", "83" ],
                     "correct": [ "84" ]
                 },
                 {
                     "display": "58 + 27",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "chainBlast",
+                    "destroyStyle": "normal",
                     "elements": [ "83", "86", "84" ],
                     "correct": [ "85" ]
                 },
                 {
                     "display": "69 + 44",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "chainBlast",
+                    "destroyStyle": "normal",
                     "elements": [ "111", "114", "112" ],
                     "correct": [ "113" ]
                 },
                 {
                     "display": "73 + 29",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "chainBlast",
+                    "destroyStyle": "normal",
                     "elements": [ "100", "103", "101" ],
                     "correct": [ "102" ]
                 },
                 {
                     "display": "65 + 48",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "chainBlast",
+                    "destroyStyle": "normal",
                     "elements": [ "111", "114", "112" ],
                     "correct": [ "113" ]
                 },
                 {
                     "display": "87 + 26",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "chainBlast",
+                    "destroyStyle": "normal",
                     "elements": [ "111", "114", "112" ],
                     "correct": [ "113" ]
                 },
                 {
                     "display": "74 + 39",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "chainBlast",
+                    "destroyStyle": "normal",
                     "elements": [ "111", "114", "112" ],
                     "correct": [ "113" ]
                 },
                 {
                     "display": "56 + 37",
                     "spawnStyle": "zig-zac",
-                    "destroyStyle": "chainBlast",
+                    "destroyStyle": "normal",
                     "elements": [ "91", "94", "92" ],
                     "correct": [ "93" ]
                 }
