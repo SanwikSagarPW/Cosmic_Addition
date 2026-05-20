@@ -2,7 +2,7 @@
     "waveSets": [
         {
             "id": "Stage1",
-            "spawnWaves": 10,
+            "spawnWaves": 1,
             "randomWaves": false,
             "waves": [
                 {
@@ -79,7 +79,7 @@
         },
         {
             "id": "Stage2",
-            "spawnWaves": 10,
+            "spawnWaves": 1,
             "randomWaves": false,
             "waves": [
                 {
@@ -156,7 +156,7 @@
         },
         {
             "id": "Stage3",
-            "spawnWaves": 10,
+            "spawnWaves": 1,
             "randomWaves": false,
             "waves": [
                 {
